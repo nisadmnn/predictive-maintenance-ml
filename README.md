@@ -27,5 +27,5 @@ Source: https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-c
 This projectwas inspired from public Kaggle notebooks.
 The implementation, explanations and structure were modified and recreated for learning purposes.
 ---
-Author
+## Author
 Nisa Duman
